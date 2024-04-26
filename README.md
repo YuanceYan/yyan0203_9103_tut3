@@ -11,7 +11,7 @@ This is my second commit!!!
 
 **Bold Text**
 
-**Italic Text**
+*Italic Text*
 
 - Item 1
 - Item 2
